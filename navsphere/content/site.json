@@ -6,7 +6,7 @@
   },
   "appearance": {
     "logo": "/assets/images/alogo.png",
-    "favicon": "/assets/images/favicon.png",
+    "favicon": "https://lsky.dsjbot.xyz/i/6877178a77199.ico",
     "theme": "system"
   }
 }
