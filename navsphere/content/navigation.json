@@ -6,6 +6,14 @@
       "icon": "Star",
       "items": [
         {
+          "id": "1754060338457",
+          "title": "道筑小居",
+          "href": "https://web.dsjbot.xyz",
+          "description": "本人博客",
+          "icon": "https://lsky.dsjbot.xyz/i/6877178a77199.ico",
+          "enabled": true
+        },
+        {
           "id": "1_2",
           "title": "Vercel",
           "href": "https://vercel.com/",
@@ -51,14 +59,6 @@
           "href": "https://postspark.app/",
           "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
           "icon": "/assets/img_1741747241014.png",
-          "enabled": true
-        },
-        {
-          "id": "1754060338457",
-          "title": "道筑小居",
-          "href": "https://web.dsjbot.xyz",
-          "description": "本人博客",
-          "icon": "https://lsky.dsjbot.xyz/i/6877178a77199.ico",
           "enabled": true
         }
       ],
