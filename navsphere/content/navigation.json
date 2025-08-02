@@ -16,7 +16,7 @@
         {
           "id": "1754150678240",
           "title": "GitHub",
-          "href": "https://github.com/dsjbot",
+          "href": "https://github.com/dsjbot?tab=repositories",
           "description": "博主个人仓库",
           "icon": "https://www.faviconextractor.com/favicon/github.com",
           "enabled": true
