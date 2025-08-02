@@ -495,6 +495,14 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.png",
               "enabled": true
+            },
+            {
+              "id": "1754124100862",
+              "title": "Favicon Extractor",
+              "href": "https://www.faviconextractor.com/zh",
+              "description": "立即从任何网站下载并提取网站图标",
+              "icon": "https://www.faviconextractor.com/favicon/www.faviconextractor.com",
+              "enabled": true
             }
           ],
           "enabled": true
