@@ -791,6 +791,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "fa041be8-a313-41d1-bc28-5272ba28bcc3",
+          "title": "壁纸",
+          "icon": "Image",
+          "description": "哲风壁纸",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": ""
