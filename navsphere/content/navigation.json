@@ -14,6 +14,14 @@
           "enabled": true
         },
         {
+          "id": "1754098620424",
+          "title": "个人域名临时邮箱",
+          "href": "https://dsy.qzz.io",
+          "description": "不限量临时邮箱",
+          "icon": "/assets/img_1754098641672.png",
+          "enabled": true
+        },
+        {
           "id": "1_3",
           "title": "Cloudflare",
           "href": "https://dash.cloudflare.com/",
@@ -51,14 +59,6 @@
           "href": "https://shots.so/",
           "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
           "icon": "/assets/images/logos/shots.webp",
-          "enabled": true
-        },
-        {
-          "id": "1754098620424",
-          "title": "个人域名临时邮箱",
-          "href": "https://dsy.qzz.io",
-          "description": "不限量临时邮箱",
-          "icon": "/assets/img_1754098641672.png",
           "enabled": true
         }
       ],
