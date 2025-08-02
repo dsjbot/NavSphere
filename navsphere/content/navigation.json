@@ -22,6 +22,14 @@
           "enabled": true
         },
         {
+          "id": "1754150678240",
+          "title": "GitHub",
+          "href": "https://github.com/dsjbot",
+          "description": "博主个人仓库",
+          "icon": "https://www.faviconextractor.com/favicon/github.com",
+          "enabled": true
+        },
+        {
           "id": "1_3",
           "title": "Cloudflare",
           "href": "https://dash.cloudflare.com/",
@@ -43,14 +51,6 @@
           "href": "https://shots.so/",
           "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
           "icon": "/assets/images/logos/shots.webp",
-          "enabled": true
-        },
-        {
-          "id": "1754150678240",
-          "title": "GitHub",
-          "href": "https://github.com/dsjbot",
-          "description": "博主个人仓库",
-          "icon": "https://www.faviconextractor.com/favicon/github.com",
           "enabled": true
         }
       ],
