@@ -619,16 +619,7 @@
       "id": "8",
       "title": "素材资源",
       "icon": "linecons-thumbs-up",
-      "items": [
-        {
-          "id": "1754107070589",
-          "title": "哲风壁纸",
-          "href": "https://haowallpaper.com",
-          "description": "各平台动态，静态壁纸",
-          "icon": "/assets/img_1754107101283.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "8_1",
@@ -801,7 +792,8 @@
             }
           ]
         }
-      ]
+      ],
+      "description": ""
     }
   ]
 }
