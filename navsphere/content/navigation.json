@@ -790,6 +790,14 @@
               "description": "免费高清图片",
               "icon": "/assets/images/logos/unsplash.png",
               "enabled": true
+            },
+            {
+              "id": "1754135900447",
+              "title": "哲风壁纸",
+              "href": "https://haowallpaper.com",
+              "description": "一个很高清，很好看的壁纸网站",
+              "icon": "/assets/img_1754108045518.png",
+              "enabled": true
             }
           ]
         },
