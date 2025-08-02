@@ -798,7 +798,16 @@
           "icon": "Image",
           "description": "哲风壁纸",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754108028127",
+              "title": "哲风壁纸",
+              "href": "https://haowallpaper.com",
+              "description": "一个很高清，很好看的壁纸网站",
+              "icon": "/assets/img_1754108045518.png",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": ""
