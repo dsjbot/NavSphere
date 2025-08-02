@@ -346,7 +346,16 @@
           "icon": "Image",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754132691510",
+              "title": "freeimage免费图床",
+              "href": "https://freeimage.host",
+              "description": "任意拖放图片到这里, 即开始上传你的图片. 最大 64 MB 图片大小",
+              "icon": "/assets/img_1754132745442.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
