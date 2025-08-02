@@ -22,14 +22,6 @@
           "enabled": true
         },
         {
-          "id": "1754098620424",
-          "title": "个人域名临时邮箱",
-          "href": "https://dsy.qzz.io",
-          "description": "不限量临时邮箱",
-          "icon": "/assets/img_1754098641672.png",
-          "enabled": true
-        },
-        {
           "id": "1_3",
           "title": "Cloudflare",
           "href": "https://dash.cloudflare.com/",
@@ -43,6 +35,14 @@
           "href": "https://vercel.com/",
           "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
           "icon": "/assets/images/logos/vercel.png",
+          "enabled": true
+        },
+        {
+          "id": "1754098620424",
+          "title": "个人域名临时邮箱",
+          "href": "https://dsy.qzz.io",
+          "description": "不限量临时邮箱",
+          "icon": "/assets/img_1754098641672.png",
           "enabled": true
         },
         {
