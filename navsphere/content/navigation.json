@@ -339,6 +339,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "f2cc8775-7a88-4725-becb-774f38820b07",
+          "title": "图床",
+          "icon": "Image",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
